@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: ' IA na Docência',
-  favicon: 'img/logo.png',
+  favicon: 'img/logo-nte.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -70,7 +70,7 @@ const config = {
         title: '',
         logo: {
           alt: 'NTE Logo',
-          src: 'img/logo.png',
+          src: 'img/logo-nte.png',
           width: 135,
         },
         items: [
