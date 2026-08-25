@@ -6,17 +6,17 @@ sidebar_position: 2
 
 # Os Tipos de Inteligência Artificial
 
-A Inteligência Artificial pode ser categorizada através de múltiplas lentes: sua **capacidade intelectual**, seu **capacidade de memória**, seus **paradigmas de aprendizado** e, por fim, as **formas de aplicação**.
+A Inteligência Artificial pode ser categorizada através de múltiplas lentes: sua **capacidade intelectual**, sua **capacidade de memória**, seus **paradigmas de aprendizado** e, por fim, as **formas de aplicação**.
 
 ## 1. Classificação por Capacidade Intelectual
 
-Nessa classificação, os modelos de Inteligência Artificial são separados em relação a quão inteligêntes e similares a forma de pensar e aprender humana eles são:
+Nessa classificação, os modelos de Inteligência Artificial são separados em relação a quão inteligentes e similares a forma de pensar e aprender humana eles são:
 
 *   **Inteligência Artificial Estreita (ANI - Artificial Narrow Intelligence):** 
-    Também chamada de *IA Fraca*, **é a única forma de IA que existe atualmente**. A ANI é treinada para realizar uma única tarefa com eficiência. O algoritmo responsável por seu funcionamento precisou ser treinado por *forças humanas* e sua capacitadade de resposta está estritamente relacionada a qualidade dos dados usados durante seu treinamento. Esses modelos não possuem autoconsciência ou capacidade de raciocinar fora de sua programação.
+    Também chamada de *IA Fraca*, **é a única forma de IA que existe atualmente**. A ANI é treinada para realizar uma única tarefa com eficiência. O algoritmo responsável por seu funcionamento precisou ser treinado por *forças humanas* e sua capacidade de resposta está estritamente relacionada a qualidade dos dados usados durante seu treinamento. Esses modelos não possuem autoconsciência ou capacidade de raciocinar fora de sua programação.
 
 *   **Inteligência Artificial Geral (AGI - Artificial General Intelligence):** 
-    Ainda existênte somente na teoria, a AGI seria um sistema com uma inteligência cognitiva equivalente à humana.Também pode ser chamda de *IA Forte*. Ela conseguiria aprender, raciocinar e se adaptar a qualquer demanda nova *sem forças humanas* guiando sua evolução ou indicando como deve agir em cada situação.
+    Ainda existente somente na teoria, a AGI seria um sistema com uma inteligência cognitiva equivalente à humana. Também pode ser chamada de *IA Forte*. Ela conseguiria aprender, raciocinar e se adaptar a qualquer demanda nova *sem forças humanas* guiando sua evolução ou indicando como deve agir em cada situação.
 
 *   **Superinteligência Artificial (ASI - Artificial Superintelligence):** 
     É o modelo mais famoso nas ficções científicas, e ainda mais teórico que a AGI. A ASI seria uma entidade autoconsciente que superaria as mentes humanas em todos os campos possíveis, desde criatividade, raciocínio até inteligência emocional. Esse modelo é totalmente independente de humanos, desde seu aprendizado até o sistema de escolhas.
@@ -37,7 +37,7 @@ Outra forma de classificar as IAs é em relação a como ela utiliza a memória 
 
 ## 3. Classificação por Paradigmas de Aprendizado
 
-Dentro dessa categoria, podemos subdivir entre aprendizado via *Machine Learning* e via *Deep Learning*:
+Dentro dessa categoria, podemos subdividir entre aprendizado via *Machine Learning* e via *Deep Learning*:
 
 ### Aprendizado por Machine Learning
 Nessa categoria, a IA é treinada com dados e essa abordagem pode ser feita de três formas diferentes:
@@ -51,7 +51,7 @@ Pense como enviar 10 mil fotos marcadas como "isso é um gato" e "isso não é u
 *   **Aprendizado Não Supervisionado:** O modelo recebe uma grande gama de dados brutos, sem nenhum rótulo, e seu objetivo é encontrar sozinho padrões, agrupamentos (clusters) e estruturas ocultas.
 
 :::info[Exemplo]
-Pense num modelo responsável por analisar os padrões de compra de uma determinada loja e precisa prever quais vão ser os produtos mais comprados no próximo mês
+Pense num modelo responsável por analisar os padrões de compra de uma determinada loja e precisa prever qual vão ser os produtos mais comprados no próximo mês
 :::
 
 *   **Aprendizado por Reforço:** Baseado em tentativa e erro e funções de recompensa. O modelo é colocado em um ambiente virtual e recebe pontuações positivas ou negativas dependendo de suas ações, ajustando sua resposta até atingir o esperado. 
@@ -87,11 +87,9 @@ A IA Generativa ganha um destaque especial por ser capaz de codificar seus dados
 
 *   **Autocodificadores Variacionais (VAEs):** Modelos antigos (2013) que geravam variações de dados existentes
 *   **Modelos de Difusão:** Eles inserem propositalmente "ruído" visual em dados até ficarem irreconhecíveis e, em seguida, revertem o processo removendo o ruído para gerar imagens (como Midjourney e o DALL-E).
-*   **Transformadores:** É o principal responsável pela existência dos modelos LLMs (Grandes Modelos de Linguagem) como o ChatGPT, Gemini, Claude etc. Em vez de ler um texto palavra por palavra, o modelo usa o contexto global para calcular matemáticamente qual a próxima palavra exata que faz mais sentido para formar a resposta. 
+*   **Transformadores:** É o principal responsável pela existência dos modelos LLMs (Grandes Modelos de Linguagem) como o ChatGPT, Gemini, Claude etc. Em vez de ler um texto palavra por palavra, o modelo usa o contexto global para calcular matematicamente qual a próxima palavra exata que faz mais sentido para formar a resposta. 
 
 Além disso, a nova era das IA generativas está se transformando nos *agentes de IAs* que basicamente é um programa instalado no seu dispositivo que tem capacidade de executar outros programas e pensar mais profundamente em um problema sem depender tanto da interferência humana. Você pode se aprofundar mais sobre isso nesse [guia de agentes](.)
-
-Além disso, a nova era da IA Generativa está evoluindo para os *Agentes de IA*, que são capazes de perceber o ambiente, tomar decisões e realizar ações com menos interferência humana. 
 
 Em vez de apenas responder a perguntas, ele consegue quebrar problemas complexos em etapas, raciocinar e interagir com outros aplicativos (como enviar um e-mail automaticamente). Você pode se aprofundar mais sobre isso neste [guia de agentes](.).
 
