@@ -2,6 +2,7 @@ import React from 'react';
 import Layout from '@theme/Layout';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Link from '@docusaurus/Link';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import FeatureCard from '../components/FeatureCard';
 
 
@@ -39,7 +40,7 @@ export default function Home() {
         <section className="hero-section">
           <div className="container hero-container">
             <div className="hero-image-col">
-              <img src="/img/pc.png" alt="Notebook"/>
+              <img src={useBaseUrl('/img/pc.png')} alt="Notebook"/>
               <h1 className="hero-notebook-title">IA NA DOCÊNCIA</h1>
             </div>
             <div className="hero-text-col">

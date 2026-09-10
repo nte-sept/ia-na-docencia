@@ -111,9 +111,9 @@ const config = {
         copyright: `
           <div class="footer-logos-container">
             <!-- Troque os nomes abaixo pelos nomes reais das suas imagens na pasta static/img -->
-            <img src="/img/logo-nte.png" alt="Logo NTE" />
-            <img src="/img/logo-sept.png" alt="Logo SEPT" />
-            <img src="/img/logo-ufpr.png" alt="Logo UFPR" />
+            <img src="/ia-na-docencia/img/logo-nte.png" alt="Logo NTE" />
+            <img src="/ia-na-docencia/img/logo-sept.png" alt="Logo SEPT" />
+            <img src="/ia-na-docencia/img/logo-ufpr.png" alt="Logo UFPR" />
           </div>
           Copyright © ${new Date().getFullYear()} NTE - Núcleo de Tecnologia Educacional, Inc. Built with Docusaurus.
         `,
