@@ -2,6 +2,7 @@
 id: o-que-e-inteligencia-artificial
 title: O que é?
 sidebar_position: 1
+pagination_prev: null
 ---
 
 # O que é Inteligência Artificial? 
@@ -52,3 +53,12 @@ O motivo de ela se destacar tanto é que, enquanto a IA tradicional era usada pa
 Alimentada por Grandes Modelos de Linguagem (os chamados *LLMs*), ela compreende o nosso idioma quase como um humano. Com um simples prompt as ferramentas como o ChatGPT, Gemini, Claude, DeepSeak entre muitos outros conseguem traduzir artigos, compor músicas, desenhar imagens inexistentes e até resumir documentos PDF inteiros em segundos.
 
 ---
+
+## Referências Bibliográficas
+
+* **NASA (National Aeronautics and Space Administration).** *What is Artificial Intelligence?* Disponível em: [https://www.nasa.gov/what-is-artificial-intelligence/](https://www.nasa.gov/what-is-artificial-intelligence/). 
+* **IBM.** *O que é inteligência artificial (IA)?* Disponível em: [https://www.ibm.com/br-pt/think/topics/artificial-intelligence](https://www.ibm.com/br-pt/think/topics/artificial-intelligence). 
+* **IBM.** *O que é computação de IA?* Disponível em: [https://www.ibm.com/br-pt/think/topics/ai-computing](https://www.ibm.com/br-pt/think/topics/ai-computing). 
+* **IBM.** *O que é computer vision?* Disponível em: [https://www.ibm.com/br-pt/think/topics/computer-vision](https://www.ibm.com/br-pt/think/topics/computer-vision). 
+* **Microsoft.** *O que é IA generativa*. Azure Database for PostgreSQL. Disponível em: [https://learn.microsoft.com/pt-br/azure/postgresql/azure-ai/generative-ai-overview](https://learn.microsoft.com/pt-br/azure/postgresql/azure-ai/generative-ai-overview). 
+* **Amazon Web Services (AWS).** *O que é IA generativa?* Disponível em: [https://aws.amazon.com/pt/what-is/generative-ai/](https://aws.amazon.com/pt/what-is/generative-ai/). 
