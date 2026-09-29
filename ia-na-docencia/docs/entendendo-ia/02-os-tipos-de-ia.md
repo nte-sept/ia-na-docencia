@@ -1,14 +1,14 @@
 ---
 id: os-tipos-de-ia
-title: Os tipos
+title: Tipos
 sidebar_position: 2
 ---
 
-# Os Tipos de Inteligência Artificial
+# Os tipos de Inteligência Artificial
 
 A Inteligência Artificial pode ser categorizada através de múltiplas lentes: sua **capacidade intelectual**, sua **capacidade de memória**, seus **paradigmas de aprendizado** e, por fim, as **formas de aplicação**.
 
-## 1. Classificação por Capacidade Intelectual
+## 1. Classificação por capacidade intelectual
 
 Nessa classificação, os modelos de Inteligência Artificial são separados em relação a quão inteligentes e similares a forma de pensar e aprender humana eles são:
 
@@ -22,7 +22,7 @@ Nessa classificação, os modelos de Inteligência Artificial são separados em 
     É o modelo mais famoso nas ficções científicas, e ainda mais teórico que a AGI. A ASI seria uma entidade autoconsciente que superaria as mentes humanas em todos os campos possíveis, desde criatividade, raciocínio até inteligência emocional. Esse modelo é totalmente independente de humanos, desde seu aprendizado até o sistema de escolhas.
 ---
 
-## 2. Classificação por Capacitade de Memória
+## 2. Classificação por capacitade de memória
 
 Outra forma de classificar as IAs é em relação a como ela utiliza a memória e o ambiente para tomar decisões:
 
@@ -35,7 +35,7 @@ Outra forma de classificar as IAs é em relação a como ela utiliza a memória 
 *   **Autoconsciência:** Também teórico, nessa categoria a IA teria plena consciência de sua própria existência, de suas limitações e de sua constituição. 
 ---
 
-## 3. Classificação por Paradigmas de Aprendizado
+## 3. Classificação por paradigmas de aprendizado
 
 Dentro dessa categoria, podemos subdividir entre aprendizado via *Machine Learning* e via *Deep Learning*:
 
@@ -70,7 +70,7 @@ Nesse modelo é usado dezenas ou centenas camadas de processamento que permitem 
 Você pode se aprofundar mais na diferença entre Machine Learning e Deep Learning e como é o aprendizado na IA nesse [link](03-como-a-ia-aprende.md).
 :::
 
-## 4. Classificação por Formas de Aplicação
+## 4. Classificação por formas de aplicação
 
 | Categoria | Aplicação |
 | :--: | :--: |
@@ -93,3 +93,10 @@ Além disso, a nova era das IA generativas está se transformando nos *agentes d
 
 Em vez de apenas responder a perguntas, ele consegue quebrar problemas complexos em etapas, raciocinar e interagir com outros aplicativos (como enviar um e-mail automaticamente). Você pode se aprofundar mais sobre isso neste [guia de agentes](.).
 
+## Referências Bibliográficas
+
+* **Hintze, A. (2016).** *Understanding the four types of AI, from reactive robots to self-aware beings*. The Conversation. Disponível em: [https://theconversation.com/understanding-the-four-types-of-ai-from-reactive-robots-to-self-aware-beings-67616](https://theconversation.com/understanding-the-four-types-of-ai-from-reactive-robots-to-self-aware-beings-67616).
+* **IBM.** *Entendendo os diferentes tipos de inteligência artificial.* Disponível em: [https://www.ibm.com/br-pt/think/topics/artificial-intelligence-types](https://www.ibm.com/br-pt/think/topics/artificial-intelligence-types). 
+* **Amazon Web Services (AWS).** *O que é Machine Learning?* Disponível em: [https://aws.amazon.com/pt/what-is/machine-learning/](https://aws.amazon.com/pt/what-is/machine-learning/). 
+* **IBM.** *O que é deep learning?* Disponível em: [https://www.ibm.com/br-pt/think/topics/deep-learning](https://www.ibm.com/br-pt/think/topics/deep-learning). 
+* **Microsoft.** *O que é IA Generativa?*. Microsoft Learn / Azure. Disponível em: [https://learn.microsoft.com/pt-br/azure/postgresql/azure-ai/generative-ai-overview](https://learn.microsoft.com/pt-br/azure/postgresql/azure-ai/generative-ai-overview). 
