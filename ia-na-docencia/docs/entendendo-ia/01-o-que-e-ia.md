@@ -4,6 +4,7 @@ title: O que é?
 sidebar_position: 1
 pagination_prev: null
 ---
+import YouTubeVideo from '@site/src/components/YouTube';
 
 # O que é Inteligência Artificial? 
 
@@ -52,6 +53,8 @@ O motivo de ela se destacar tanto é que, enquanto a IA tradicional era usada pa
 
 Alimentada por Grandes Modelos de Linguagem (os chamados *LLMs*), ela compreende o nosso idioma quase como um humano. Com um simples prompt as ferramentas como o ChatGPT, Gemini, Claude, DeepSeak entre muitos outros conseguem traduzir artigos, compor músicas, desenhar imagens inexistentes e até resumir documentos PDF inteiros em segundos.
 
+---
+<YouTubeVideo link="https://www.youtube.com/watch?v=nVgh-gLg3zM" />
 ---
 
 ## Referências Bibliográficas
