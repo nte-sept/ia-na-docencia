@@ -26,9 +26,11 @@
   --ifm-menu-color: #ffffff; 
   --ifm-menu-color-active: var(--ifm-color-primary-dark);
 }
+
 .navbar__items .navbar__link--active:not(.nav-login-button) {
   color: #ffffff !important; 
 }
+
 .nav-login-button {
   background-color: #ffffff !important;
   color: var(--ifm-color-primary) !important;
@@ -39,11 +41,13 @@
   font-weight: bold;
   transition: all 0.2s ease;
 }
+
 .nav-login-button:hover {
   background-color: #f0f0f0 !important;
   color: #005a9e !important; 
   text-decoration: none;
 }
+
 .navbar__logo {
   height: 100%;
   width: auto;
@@ -59,10 +63,12 @@
   margin-bottom: 20px; 
   width: 100%;
 }
+
 .footer-logos-container img {
   max-height: 105px; 
   width: auto;
 }
+
 .footer__copyright {
   color: #ffffff !important;
 }
@@ -70,6 +76,7 @@
 .hero-section {
   padding: 40px 0;
 }
+
 .hero-container {
   display: flex;
   flex-direction: row;
@@ -78,6 +85,7 @@
   max-width: 100% !important; 
   padding: 0 5%;
 }
+
 .hero-image-col {
   flex: 1.5; 
   position: relative; 
@@ -85,11 +93,13 @@
   justify-content: center; 
   color: #0e0e0e;
 }
+
 .hero-image-col img {
   max-width: 500px; 
   min-width: 140%; 
   height: auto;
 }
+
 .hero-text-col {
   flex: 1; 
   display: flex;
@@ -97,12 +107,14 @@
   align-items: center; 
   text-align: center;
 }
+
 .hero-btn {
   border-radius: 30px;
   padding: 10px 40px;
   font-size: 1.2rem;
   color: #ffffff !important;
 }
+
 .hero-notebook-title {
   font-family: 'Bungee', system-ui;
   font-size: 60px;
@@ -113,6 +125,7 @@
   transform: translate(-50%, -50%);
   width: 80%;
 }
+
 .hero-text-col h2 {
   font-family: 'Cantora One', sans-serif !important;
   font-size: 50px !important;
@@ -121,7 +134,6 @@
   margin-bottom: 2rem;
   line-height: 1.3;
 }
-
 
 .features-section {
   background: var(--gradient);
@@ -133,12 +145,14 @@
   width: 100%;
   overflow: hidden;
 }
+
 .features-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 20px;
   width: 100%;
 }
+
 .feature-card {
   background-color: #ffffff;
   border-radius: 20px;
@@ -150,6 +164,7 @@
   text-align: center;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
+
 .feature-card-desc {
   color: #333;
   font-size: 0.95rem;
@@ -160,12 +175,12 @@
   font-size: 32px !important;
   line-height: 1.3 !important;
 }
+
 .feature-card-btn {
   border-radius: 20px;
   width: 90%;
   color: #ffffff !important;
 }
-
 
 .rag-section {
   padding: 6rem 5%; 
@@ -173,6 +188,7 @@
   width: 100%;
   overflow: hidden;
 }
+
 .rag-title {
   color: var(--ifm-color-primary);
   text-align: center;
@@ -182,20 +198,24 @@
   font-size: 32px !important;
   line-height: 1.3 !important;
 }
+
 .rag-content {
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 6rem;
 }
+
 .rag-logo p {
   margin: 0;
 }
+
 .rag-info ul {
   list-style: none;
   padding: 0;
   margin-bottom: 2rem;
 }
+
 .rag-info li {
   font-size: 1.1rem;
   margin-bottom: 1.5rem; 
@@ -205,6 +225,7 @@
   font-size: 32px !important;
   line-height: 1.3 !important;
 }
+
 .rag-info li::before {
   content: '•';
   color: var(--ifm-color-primary);
@@ -213,9 +234,11 @@
   left: 0;
   top: -10px;
 }
+
 .rag-info strong {
   color: var(--ifm-color-primary);
 }
+
 .rag-buttons {
    display: flex;
     flex-direction: row;
@@ -223,11 +246,13 @@
     gap: 20px;
     justify-content: center;
 }
+
 .rag-btn {
   border-radius: 30px;
   padding: 8px 30px;
   color: #ffffff !important;
 }
+
 .rag-text-logo {
   font-family: 'Chango', system-ui;
   font-size: 128px;
@@ -236,26 +261,91 @@
   line-height: 1;
 }
 
+.ia-card-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.ia-card {
+  display: flex;
+  flex-direction: column;
+  background: #2199E8;
+  border: 3px solid #2199E8;
+  border-radius: 8px;
+  overflow: hidden;
+  text-decoration: none !important;
+  color: inherit;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  -webkit-backface-visibility: hidden;
+  transform: translateZ(0)
+}
+
+.ia-card:hover {
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+  transform: translateY(-4px);
+}
+
+[data-theme='dark'] .ia-card {
+  background-color: #005a9e;
+  border: 3px solid #005a9e; 
+}
+
+.ia-card-image {
+  width: 100%;
+  aspect-ratio: 4 / 3; 
+  overflow: hidden;
+  background-color: #f5f6f8; 
+}
+
+.ia-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+display: block;
+}
+
+.ia-card-content {
+  padding: 16px;
+  text-align: center;
+}
+
+.ia-card-content h3 {
+  margin: 0;
+  font-family: 'Cantora One', sans-serif !important;
+  font-size: 22px;
+  color: #ffffff !important;
+  font-weight: normal !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 @media (max-width: 1024px) {
   .hero-container {
     flex-direction: column;
     gap: 3rem;
     padding: 0 5%;
   }
+
   .hero-image-col, .hero-text-col {
     flex: 1 1 100%;
     width: 100%;
   }
+
   .hero-notebook-title {
     font-size: clamp(35px, 3.5vw, 26px); 
     top: 30%;
     width: 70%; 
   }
+
   .hero-image-col img {
     min-width: 0; 
     max-width: 150%; 
     transform: scale(1.2);
   }
+
   .hero-text-col h2 {
     font-family: 'Cantora One', sans-serif !important;
     font-size: 35px !important;
@@ -278,6 +368,10 @@
   .features-grid {
     grid-template-columns: repeat(2, 1fr);
   }
+  
+  .ia-card-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 @media (max-width: 576px) {
@@ -290,6 +384,7 @@
     padding: 0 !important; 
     gap: 4rem;
   }
+
   .hero-image-col img {
     transform: scale(1.5); 
   }
@@ -298,16 +393,17 @@
     font-size: 22px !important; 
     padding: 0px 10px;
   }
+
   .hero-notebook-title {
     font-size: clamp(24px, 4.5vw, 18px); 
     top: 26%;
     width: 70%;
   }
 
-
   .feature-card-desc {
     font-size: 19px !important; 
   }
+
   .features-grid {
     grid-template-columns: 1fr;
   }
@@ -318,20 +414,32 @@
   .rag-text-logo {
     font-size: 90px; 
   }
+
   .rag-info ul {
     text-align: left; 
     display: inline-block; 
     padding-left: 20px;
     max-width: 95%;
   }
+
   .rag-buttons {
     display: flex;
     flex-direction: column !important;
     align-items: center;
     gap: 15px;
   }
+
   .rag-btn {
     width: 100%; 
     max-width: 250px;
   }
+
+  .features-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .ia-card-grid {
+    grid-template-columns: 1fr;
+  }
 }
+

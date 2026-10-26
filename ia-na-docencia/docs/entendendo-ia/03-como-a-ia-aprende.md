@@ -1,6 +1,6 @@
 ---
 id: como-a-ia-aprende
-title: Como aprende?
+title: Como aprende 
 sidebar_position: 3
 ---
 
@@ -62,3 +62,15 @@ Essa parte entre no ajuste de erros e na otimização (como o gradiente descende
 ### As Alucinações
 
 Compreender que a IA funciona através de estatística e otimizações explica o fenômeno das **alucinações**. Como a IA apenas calcula a palavra mais provável, se ela não tiver bons dados de treinamento, vai retornar palavras que soam corretas gramaticalmente, mas a informação que geram são inventadas/falsas. A base matemática não serve apenas para construir a máquina, mas é o que nos permite validar os resultados e garantir que podemos confiar nas decisões tomadas por esses sistemas.
+
+## Referências Bibliográficas
+
+* **Marcelly, L., & AVAMI Epsilon. (2024).** *A Matemática por Trás da Inteligência Artificial: Um Guia Abrangente*. Disponível em: [https://lessandramarcelly.com.br/a-matematica-por-tras-da-inteligencia-artificial/](https://lessandramarcelly.com.br/a-matematica-por-tras-da-inteligencia-artificial/)
+* **F
+* **IBM.** *O que é Machine Learning?* Disponível em: [https://www.ibm.com/br-pt/topics/machine-learning](https://www.ibm.com/br-pt/topics/machine-learning). 
+* **IBM.** *O que é Deep Learning?* Disponível em: [https://www.ibm.com/br-pt/topics/deep-learning](https://www.ibm.com/br-pt/topics/deep-learning). 
+* **IBM.** *O que são alucinações de IA?* Disponível em: [https://www.ibm.com/br-pt/topics/ai-hallucinations](https://www.ibm.com/br-pt/topics/ai-hallucinations). 
+* **Amazon Web Services (AWS).** *O que são grandes modelos de linguagem (LLMs)?* Disponível em: [https://aws.amazon.com/pt/what-is/large-language-model/](https://aws.amazon.com/pt/what-is/large-language-model/). 
+* **Universidade Federal de Minas Gerais (UFMG) - ICEx.** *Matemática e Inteligência Artificial andam de mãos dadas*. Disponível em: [https://www.icex.ufmg.br/icex_novo/matematica-e-inteligencia-artificial-andam-de-maos-dadas/](https://www.icex.ufmg.br/icex_novo/matematica-e-inteligencia-artificial-andam-de-maos-dadas/). 
+* **Focalx AI.** *A Matemática da Inteligência Artificial*. Disponível em: [https://focalx.ai/pt-pt/inteligencia-artificial/matematica-ia/](https://focalx.ai/pt-pt/inteligencia-artificial/matematica-ia/). 
+
