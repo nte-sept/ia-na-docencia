@@ -3,6 +3,7 @@ id: historia-da-ia
 title: História
 sidebar_position: 4
 ---
+import YouTubeVideo from '@site/src/components/YouTube';
 
 # Como a Inteligência Artificial surgiu?
 
@@ -60,6 +61,8 @@ Utilizando essa arquitetura, a OpenAI lançou o ChatGPT em **2022**, difundindo 
 
 A evolução desses modelos culminou, em **2025**, numa tecnologia diversa, tornando a IA generativa eficiente não apenas na elaboração de textos estruturados, mas também no processamento de voz, imagens e vídeos.
 
+---
+<YouTubeVideo link="https://www.youtube.com/watch?v=SQIv_yX93Rc" />
 ---
 
 ## Referências Bibliográficas

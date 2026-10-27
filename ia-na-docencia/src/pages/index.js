@@ -41,7 +41,6 @@ export default function Home() {
           <div className="container hero-container">
             <div className="hero-image-col">
               <img src={useBaseUrl('/img/pc.png')} alt="Notebook"/>
-              <h1 className="hero-notebook-title">IA NA DOCÊNCIA</h1>
             </div>
             <div className="hero-text-col">
               <h2>Entenda como funciona e<br/>tudo que ela pode fazer</h2>
