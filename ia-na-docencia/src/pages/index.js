@@ -40,7 +40,7 @@ export default function Home() {
         <section className="hero-section">
           <div className="container hero-container">
             <div className="hero-image-col">
-              <img src={useBaseUrl('/img/pc.png')} alt="Notebook"/>
+              <img src={useBaseUrl('/img/pc-alterado.png')} alt="Notebook"/>
             </div>
             <div className="hero-text-col">
               <h2>Entenda como funciona e<br/>tudo que ela pode fazer</h2>

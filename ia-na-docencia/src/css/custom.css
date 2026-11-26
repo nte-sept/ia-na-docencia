@@ -392,7 +392,7 @@ display: block;
 }
 
 @media (max-width: 576px) {
-  footer-logos-container {
+  .footer-logos-container {
     flex-direction: column;
     gap: 15px;
   }
